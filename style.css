@@ -1,0 +1,12 @@
+.thumbnail {
+    width: 250px;
+    height: 250px;
+}
+
+#gaming-section {
+    padding: 15px 0;
+}
+
+.hide {
+    display: none;
+}

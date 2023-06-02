@@ -1,0 +1,12 @@
+[
+  { "id": 1, "title": "John Wick: Chapter 4", "rating": 94 },
+  { "id": 2, "title": "Are You There God?", "rating": 99 },
+  { "id": 3, "title": "Full Time", "rating": 98 },
+  { "id": 4, "title": "Attachment", "rating": 95 },
+  { "id": 5, "title": "After Love", "rating": 93 },
+  { "id": 6, "title": "Creed III", "rating": 88 },
+  { "id": 7, "title": "Sick Of Myself", "rating": 87 },
+  { "id": 8, "title": "Plane", "rating": 78 },
+  { "id": 9, "title": "Scream VI", "rating": 76 },
+  { "id": 10, "title": "The Offering", "rating": 76 }
+]
